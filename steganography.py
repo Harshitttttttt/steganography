@@ -2,7 +2,7 @@ import cv2
 import os
 import secrets
 
-img = cv2.imread("C:/Files/OCDSE/ibm/237-200x300.jpg") # Replace with the correct image path
+img = cv2.imread(" <image path> ") # Replace with the correct image path
 
 # Define the encryption and decryption functions
 def encrypt(message, key):
